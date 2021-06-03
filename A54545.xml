@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Petition of the inhabitants of Istleworth in the countie of Middlesex against William Grant, minister of the said parish whereunto is added one and twenty articles against the said minister by his parishioners presented to the Honourable House of Commons.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54545</idno><idno type="EEBO-CITATION">8723486</idno>
+  <idno type="VID">41669</idno>
+  <idno type="EEBO-PROQUEST">2248511610</idno>
+  
+            <idno type="STC">Wing P1802</idno>
+            <idno type="STC">ESTC R25030</idno>
+            <idno type="OCLC">08723486</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54545)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41669)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1267:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Petition of the inhabitants of Istleworth in the countie of Middlesex against William Grant, minister of the said parish whereunto is added one and twenty articles against the said minister by his parishioners presented to the Honourable House of Commons.</title>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Grant, William, d. 1678.</term>
+               <term type="geographic_name">Isleworth (London, England) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="petition">
+            <pb facs="tcp:41669:1"/>
+            <pb facs="tcp:41669:1"/>
+            <p>THE PETITION OF THE INHABITANTS OF <hi>Istleworth</hi> in the Countie of <hi>Middlesex,</hi> against <hi>William Grant,</hi> Minister of the said Pa<g ref="char:EOLhyphen"/>rish: whereunto is added one and twenty Articles against the said Minister by his Pa<g ref="char:EOLhyphen"/>rishioners, presented to the Honoura<g ref="char:EOLhyphen"/>ble House of <hi>Commons.</hi>
+            </p>
+            <p>London printed. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:41669:2"/>
+            <pb n="1" facs="tcp:41669:2"/>
+            <head>TO THE HONORABLE THE KNIGHTS, CITIZENS, AND BVRGESSES OF THE <hi>House of Commons.</hi>
+            </head>
+            <argument>
+               <p>The humble Petition of the Parishioners of the Parish of <hi>Istleworth</hi> in the Countie of <hi>Middlesex.</hi>
+               </p>
+            </argument>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Parish of <hi>Istleworth</hi> aforesaid is very populous, and full of Gentry and Citizens, and hath for these fourty yeares last past had severall Lecturers there maintained at their owne charge. And of late one Master <hi>William Iemmet,</hi> Chaplen to the right Ho<g ref="char:EOLhyphen"/>nourable the Earle of <hi>Northumberland,</hi> a learned Divine, and of approved life and conversation, who hath been for these fourteen yeares licensed by the Chancellour for our
+<pb n="2" facs="tcp:41669:3"/> Lecturer, and accepted for such by reverend learned Do<g ref="char:EOLhyphen"/>ctours, Prebends of <hi>Windsor,</hi> successively Vicars of <hi>Istle<g ref="char:EOLhyphen"/>worth</hi> aforesaid, untill of late one Master <hi>William Grant,</hi> Chaplen to the Bishop of <hi>Glocester,</hi> by the procurement of the Archbishop of <hi>Canterbury</hi> is become the Vicar there, who hath put out the said Master <hi>Iemmet,</hi> and in his place imployed one Master <hi>Bisield,</hi> a man of a very scan<g ref="char:EOLhyphen"/>dalous life to be Lecturer there, untill he heard the Pa<g ref="char:EOLhyphen"/>rishioners were preferring a Petition to the Parliament against them both. The said Master <hi>Grant,</hi> being also a man erroneous in opinion, scandalous in life, an Exactour of undue Fees, wholly unfit for that sacred Function, as will appear in the following particulars, here humbly offered to your grave considerations, All which your Petitioners are ready to make good.</p>
+            <div type="part">
+               <p>And do therefore most humbly pray, that the said Master <hi>Grant</hi> may be removed, and such order taken, that a faithfull Ministry may be again esta<g ref="char:EOLhyphen"/>blished amongst us, as formerly: which we hum<g ref="char:EOLhyphen"/>bly conceive will not be so long as he continueth Vicar there, no faithfull or worthy Minister being willing to be Lecturer under him: the redresse of which we humbly crave of this honourable Assem<g ref="char:EOLhyphen"/>bly: And for it shall humbly pray, &amp;c.</p>
+            </div>
+         </div>
+         <div type="articles">
+            <p>FIrst, that Master <hi>Grant</hi> hath ever since the Faste-day in <hi>Iuly</hi> last, put out the said Master <hi>Iemmet</hi> from be<g ref="char:EOLhyphen"/>ing Lecturer, though himselfe confesseth that he hath nothing against his life and conversation, but that he did it
+<pb n="3" facs="tcp:41669:3"/> that he might root out the Puritans there: and notwith<g ref="char:EOLhyphen"/>standing that the same Master <hi>Iemmet</hi> hath many small children, most of them bred in the same Parish.</p>
+            <p n="2">2. That Master <hi>Grant</hi> did promise Master <hi>Barrell</hi> (be<g ref="char:EOLhyphen"/>ing Churchwarden) (in the word of a Priest) that if the said Master <hi>Barrell</hi> would promise to pay him ten pounds a year (which accordingly was done) then the said Master <hi>Iemmet</hi> should be received again to be Lecturer, and added this Execration, Let this wine never passe through me, taking the glasse, and drinking it off, if I make not good this promise: yet neverthelesse he put him out as afore<g ref="char:EOLhyphen"/>said within six or eight weeks after that promise and exe<g ref="char:EOLhyphen"/>cration.</p>
+            <p n="3">3. That Master <hi>Grant</hi> putteth holinesse in places, and therefore threatned to present the said Master <hi>Barrell,</hi> be<g ref="char:EOLhyphen"/>ing Churchwarden, for comming once within the Rail about the Communion Table, for to receive the money which was collected at the Sacrament, and to put it into the poores Box, according to the Rubricke, saying, none must come there but the Priest, for that it was holy ground.</p>
+            <p n="4">4. That the said Master <hi>Grant</hi> boweth to the Ta<g ref="char:EOLhyphen"/>ble when he goeth to it to say his second Service, and at all other times, as often as he goeth by it, and also when the word <hi>Iesus</hi> is named, though his face be towards the West (when his Curate names that word) yet he then turnes to the Table, or to the East, and boweth himselfe.</p>
+            <p n="5">5. That being desired by the Churchwardens to for<g ref="char:EOLhyphen"/>bear reading the second Service at the Communion Ta<g ref="char:EOLhyphen"/>ble, he answered he would not do it to please the Puritans, and that he dares not do otherwise, for if it should be told
+<pb n="4" facs="tcp:41669:4"/> the Archbishop, all the friends he had should not be able to perswade the said Archbishop but that he was a favourer of the Puritans.</p>
+            <p n="6">6. That he hath affirmed, that the marrying of the Clergy, is the undoing of the Clergy.</p>
+            <p n="7">7. That he hath said, that it will never be well with the Church of <hi>England</hi> untill Confession be set up in it.</p>
+            <p n="8">8. That he hath spoken against the Doctrines of Pre<g ref="char:EOLhyphen"/>destination.</p>
+            <p n="9">9. That he hath affirmed that Pictures are Lay-mens bookes, and that it is lawfull to have them in Churches and Chappels, and hath desired the Churchwarden to set up the Picture of a Saint in the Chancell, and that he car<g ref="char:EOLhyphen"/>rieth to Church with him a Testament full of Cruci<g ref="char:EOLhyphen"/>fixes and Pictures.</p>
+            <p n="10">10. That he hath affirmed that he had rather hear an Organ (ten to one) in the Church than singing of Psalmes, which scoffingly he called <hi>Hopkins</hi> his jigges, and com<g ref="char:EOLhyphen"/>manded the Clerke not to reade them in the Church, so that the unlearned could not sing, and further threatned to pre<g ref="char:EOLhyphen"/>sent the Churchwarden, if he would not present one who on Sunday read the Psalme to one that stood nere him.</p>
+            <p n="11">11. That he useth very unbecoming speeches in his Sermons, as speaking of some Popish tenents, he said, <hi>Marry as good lucke is, we have the Scripture against them;</hi> and at an another time, of the devils temptations, <hi>Marry as good lucke was, God was stronger than the Devill.</hi>
+            </p>
+            <p n="12">12. That he calleth the book of Martyrs, <hi>A book of lyes.</hi>
+            </p>
+            <p n="13">13. That he said, that all good fellowship was laid aside
+<pb n="5" facs="tcp:41669:4"/> in the Parish, but he will bring it in again, and maintain it, and would have <hi>Wine</hi> and <hi>Tobacco</hi> for all that would come to his Vicaridge house on Sundayes after Prayers, and he doth make it good, harbouring there at such times, the de<g ref="char:EOLhyphen"/>boist sort tipling.</p>
+            <p n="14">14. That he hath said, <hi>That the Sabbath day is no more than another day, and that Christmas day is an higher day than the Sabbath day, and that it is a greater day than all the Sab<g ref="char:EOLhyphen"/>baths in the year,</hi> and he also maintaines the book of sports.</p>
+            <p n="15">15. That he will not suffer any to pray for the sick in the Pulpit, but useth the prayer appointed for visiting the sick.</p>
+            <p n="16">16. That he is an ordinary Gamester at Cards, sitting up untill two or three of the clocke in the morning.</p>
+            <p n="17">17. That when one preaching there reproved soul-mur<g ref="char:EOLhyphen"/>dering Ministers, the said M. <hi>Grant</hi> said, <hi>That if he had been as nere the Pulpit as the Bishop of</hi> Lincolne <hi>was to Doctor</hi> Hey<g ref="char:EOLhyphen"/>lin, <hi>he would have pulled him out of the Pulpit.</hi>
+            </p>
+            <p n="18">18. That we shall have no Lecturer if we will not take such a man as he will put in, and that if we will not be so contented, we shall be content with one Sermon in a moneth, that he will preach.</p>
+            <p n="19">19. That he takes away part of the Clerkes wages, and gives it to a boy that rubbes his Horses heeles.</p>
+            <p n="20">20. That he exacts money for attendance upon Fune<g ref="char:EOLhyphen"/>rals, and other undue Fees, four or five times as much as hath been within these seven years, challenging and taking by force money which is due to the Churchwardens for the time being, for Burials in the Church and Church-porch.</p>
+            <p n="21">21. That <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e receiveth the money collected at the Sa<g ref="char:EOLhyphen"/>crament, and saith, <hi>That it is money offered, and therefore doth belong to him being Priest there.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
